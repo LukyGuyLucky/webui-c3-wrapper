@@ -5,7 +5,7 @@ c3 practice with webui binding practice.Win64 bit.
 
 webui : https://github.com/webui-dev/webui
 
-winwindow 64 bit libs were also from the above original webui project.
+windows 64 bit libs were also from the above original webui project.
 
 compile minimal.c3:
 
